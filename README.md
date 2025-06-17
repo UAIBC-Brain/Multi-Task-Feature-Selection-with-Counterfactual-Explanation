@@ -22,3 +22,5 @@ pip install dice-ml
 
 Mothilal, Ramaravind K., Amit Sharma, and Chenhao Tan. "Explaining machine learning classifiers through diverse counterfactual explanations." Proceedings of the 2020 conference on fairness, accountability, and transparency. 2020.
 
+### Note
+Since the paper has not been accepted yet, only part of the test code is uploaded, and it will be updated after acceptance.
